@@ -1,0 +1,28 @@
+PODS:
+  - CardsLayout (0.0.1)
+  - CenteredCollectionView (2.0.0)
+  - DZNEmptyDataSet (1.8.1)
+  - MEVFloatingButton (1.3)
+
+DEPENDENCIES:
+  - CardsLayout
+  - CenteredCollectionView
+  - DZNEmptyDataSet
+  - MEVFloatingButton
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - CardsLayout
+    - CenteredCollectionView
+    - DZNEmptyDataSet
+    - MEVFloatingButton
+
+SPEC CHECKSUMS:
+  CardsLayout: ceeb8f9c26319b47a2f0995ea4590cf7ba881462
+  CenteredCollectionView: 6548b515645aea6ea89618f4b5ca090191dc8628
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  MEVFloatingButton: 1f0adb47bdc6f9f56bb40ac59b60da27aa4f2fbf
+
+PODFILE CHECKSUM: 0d800d661e5479396d62524eabb74a2b8e43a34c
+
+COCOAPODS: 1.5.0
